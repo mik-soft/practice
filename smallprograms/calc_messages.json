@@ -1,0 +1,20 @@
+{
+    "en": {  
+      "welcome": "Welcome to Calculator! Enter your name:",
+      "validName": "Make sure to enter a valid name.",
+      "firstNumber": "What's the first number?",
+      "validNumber": "Hmm... that doesn't look like a valid number.",
+      "tryFirstAgain": "Try again, what's the first number?",
+      "secondNumber": "What's the second number?",
+      "trySecondAgain": "Try again, what's the second number?",
+      "1234": "Must choose 1, 2, 3, or 4",
+      "operatorQuestion": "Please enter an operator.\n1) Add 2) Subtract 3) Multiply 4) Divide\n",
+      "anotherCalculation": "Would you like another calculation (y/n)"
+    },
+    "es": {
+      "welcome": "Bienvenido a la calculadora! Entre su nombre:",
+      "validName": "Asegúrese de entrar un nombre válido.",
+      "1234": "Debe elegir 1, 2, 3 o 4",
+      "operatorQuestion": "Ingrese un operador.\n1) Sumar 2) Restar 3) Multiplicar 4) Dividir\n"
+    }
+  }
